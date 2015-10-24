@@ -1,7 +1,7 @@
 {
   "name": "async-ear",
   "main": "parallel.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Manage and call async functions",
   "license": "MIT",
   "repository": "bendrucker/async-ear",
