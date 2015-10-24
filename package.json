@@ -1,0 +1,38 @@
+{
+  "name": "async-ear",
+  "main": "parallel.js",
+  "version": "0.0.0",
+  "description": "Manage and call async functions",
+  "license": "MIT",
+  "repository": "bendrucker/async-ear",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "listen",
+    "async",
+    "ear",
+    "function"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^5.0.0"
+  },
+  "files": [
+    "parallel.js",
+    "series.js",
+    "ear.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "assert-function": "~1.0.0",
+    "run-parallel": "~1.1.4",
+    "run-series": "~1.1.4",
+    "to-array": "~0.1.4"
+  }
+}
