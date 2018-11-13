@@ -1,4 +1,4 @@
-# async-ear [![Build Status](https://travis-ci.org/bendrucker/async-ear.svg?branch=master)](https://travis-ci.org/bendrucker/async-ear)
+# async-ear [![Build Status](https://travis-ci.org/bendrucker/async-ear.svg?branch=master)](https://travis-ci.org/bendrucker/async-ear) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/async-ear.svg)](https://greenkeeper.io/)
 
 > Manage and call async functions
 
